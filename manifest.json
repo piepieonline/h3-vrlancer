@@ -1,0 +1,13 @@
+{
+	"version": "0.9.0",
+	"id": "piepieonline.VRLancer",
+	"name": "VRLancer",
+	"contentFolders": ["content"],
+	"description": "Enables VR for Freelancer and other missions. Requires the ModSDK.",
+	"authors": ["piepieonline"],
+	"frameworkVersion": "2.12.4", 
+	"scripts": [
+        "sdk/deploySDK.ts"
+    ],
+	"updateCheck": "https://raw.githubusercontent.com/piepieonline/h3-vrlancer/main/version.json"
+}

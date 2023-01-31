@@ -1,0 +1,29 @@
+DONE: purple icons in 'instinct'
+some way of seeing tells outside the camera
+camera light glitch
+
+
+
+
+
+,
+	"scripts": [
+        "sdk/sdkinstaller.ts"
+    ]
+	
+	
+	
+vrhelpers.template
+
+00825F74FC89375F - vr tutorial button
+
+
+
+00D1399ACD41FD9F - crate
+
+00377F466480B628 - crate inner
+
+
+ Helper_Evergreen_SelectableItemContainer (ref d3b98ae9b851f1ad) > Open (ref 7427c1497ee7c76d) > Evergreen_Stash_Crate_A (ref 3c8df6e4ba174c79)
+ miami evergreen Evergreen Pinochle Data
+ 
